@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img width="100%" height = "250px" src="https://res.cloudinary.com/cortehz/image/upload/v1620232039/Screenshot_2021-05-05_at_18.25.17_jcciyx.png" alt="cover" />
+<img width="100%" height = "350px" src="https://res.cloudinary.com/cortehz/image/upload/v1620232039/Screenshot_2021-05-05_at_18.25.17_jcciyx.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
